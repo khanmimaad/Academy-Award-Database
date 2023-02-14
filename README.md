@@ -1,5 +1,8 @@
 # AcademyAwardDatabase
 
+
+Description:
+
 An iOS application that serves as a database for the complete history of every Academy Award winner in each category.  The Academy of Motion Picture Arts and Sciences
 
 Proposed Goals:
@@ -12,3 +15,6 @@ Information on films developed with IMAX Corporation and various technologies pe
 Agile development and proper documentation paired with native Swift technologies such as protocol extensions, interval matching, and now Dynamic Island integration.
 
 A pre-existing history allows for completion of a database that compiles all Oscar winners and nominees. Easily completed within the time frame required.
+
+
+Progress: Outlined the project and created a proof of concept.
