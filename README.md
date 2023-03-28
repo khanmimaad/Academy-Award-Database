@@ -17,4 +17,5 @@ Agile development and proper documentation paired with native Swift technologies
 A pre-existing history allows for completion of a database that compiles all Oscar winners and nominees. Easily completed within the time frame required.
 
 
-Current Progress as of Milestone 3: Updated UI and information with even additional features to be delivered soon: https://youtu.be/-l2uxRDL_Ec
+Current Progress as of Milestone 3: Updated UI and information with even additional features to be delivered soon:
+https://youtu.be/-l2uxRDL_Ec
