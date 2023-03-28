@@ -18,4 +18,5 @@ A pre-existing history allows for completion of a database that compiles all Osc
 
 
 Current Progress as of Milestone 3: Updated UI and information with even additional features to be delivered soon:
+
 https://youtu.be/-l2uxRDL_Ec
